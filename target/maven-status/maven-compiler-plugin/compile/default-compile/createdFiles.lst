@@ -1,0 +1,7 @@
+com/pages/BasePage.class
+com/pages/CartPage.class
+com/pages/LoginPage_PageFactory.class
+com/pages/HomePage.class
+com/pages/LoginPage.class
+com/utils/Utils.class
+com/utils/BasicTest.class
